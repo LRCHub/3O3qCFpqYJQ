@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "HYMN TO LOVE",
+  "base_artist": "GUMX",
+  "createdAt": "2026-01-05T04:57:49.198334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hymn To Love",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/01_Hymn_To_Love_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hymn to love (Bonus)",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/02_Hymn_to_love_(Bonus)_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hymn To Love (Album Version)",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/03_Hymn_To_Love_(Album_Version)_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hymn to Love (Hymne à l'amour)",
+      "artist": "Edith Piaf",
+      "has_synced": false,
+      "path": "select/04_Hymn_to_Love_(Hymne_à_l'amour)_Edith_Piaf.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hymn to Love (Hymne À L'Amour)",
+      "artist": "Édith Piaf",
+      "has_synced": false,
+      "path": "select/05_Hymn_to_Love_(Hymne_À_L'Amour)_Édith_Piaf.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hymn to Love",
+      "artist": "EPEX",
+      "has_synced": true,
+      "path": "select/06_Hymn_to_Love_EPEX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hymn to love (bonus)",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/07_Hymn_to_love_(bonus)_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hymn to Love",
+      "artist": "Édith Piaf",
+      "has_synced": false,
+      "path": "select/08_Hymn_to_Love_Édith_Piaf.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hymn to Love",
+      "artist": "Edith Piaf",
+      "has_synced": true,
+      "path": "select/09_Hymn_to_Love_Edith_Piaf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hymn to love",
+      "artist": "Édith Piaf",
+      "has_synced": true,
+      "path": "select/10_Hymn_to_love_Édith_Piaf.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hymn To Love",
+      "artist": "Piaf, Edith",
+      "has_synced": true,
+      "path": "select/11_Hymn_To_Love_Piaf,_Edith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HYMN TO LOVE",
+      "artist": "GUMX",
+      "has_synced": false,
+      "path": "select/pl_01_HYMN_TO_LOVE_GUMX.txt"
+    }
+  ]
+}
